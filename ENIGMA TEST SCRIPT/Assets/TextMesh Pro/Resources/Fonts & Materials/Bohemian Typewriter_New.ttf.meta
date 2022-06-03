@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 6fa2581733bd61249bf2bd9bdee27d5e
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Bohemian Typewriter
+  fontNames:
+  - Bohemian Typewriter
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: a6b1205a067c5934c929dd563e432652, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
