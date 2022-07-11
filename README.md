@@ -1,2 +1,3 @@
 # a-la-Enigma
-New Enigma based on historical Enigma code.
+3D simulator of new Enigma based on historical Enigma code.
+All clreated in Unity / C# 
